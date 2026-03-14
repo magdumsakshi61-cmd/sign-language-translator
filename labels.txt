@@ -1,0 +1,9 @@
+0 Hello
+1 Welcome
+2 stop
+3 Namaste
+4 Please
+5 yes
+6 Bye
+7 Belive
+8 Thank you

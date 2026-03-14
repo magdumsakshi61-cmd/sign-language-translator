@@ -1,0 +1,5 @@
+streamlit
+numpy<2.0.0
+Pillow
+opencv-python-headless
+tensorflow-cpu
